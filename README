@@ -1,0 +1,23 @@
+Terry Stops¶
+What is it?
+The purpose of a Terry stop is to conduct a brief investigation to confirm or deny that the suspect is involved in criminal activity. A law enforcement officer may initiate a Terry stop when he or she suspects that an individual is committing, has committed, or is about to commit a crime but probable cause does not yet exist to arrest and the officer wants to “stop” the suspect and investigate.If, during the stop, probable cause to arrest is developed, the suspect will be arrested.
+
+
+With the force dwindling it is not as cost prevailing to maintain the Terry Stop as It hardly results in an arrest. As More prominant bias appears across america in police precincts  is it really beneficial towards the city of Seattle? Are Terry Stops Worth the stop or are they more of a way for Police Officers to Harrass a group of people in which they have a bias.
+
+### Conclusion
+The Decision Tree was the most accurate thing when it comes to modeling the accuracy demonstrated by the decision tree model reached 86 percent which while being the most accurate more than likely implies overfitting. 
+
+#### Improvements 
+We can improve upon the modeling if we find higher correlating features or utilize the features that were provided such as weapons or precinct to better determine whether or not those type of things have a direct impact on arrest. 
+
+We could also add some kind of weight to things like different races or percieved races to say that races that have a lower percentage as far as population is concerned have a higher impact towards being arrested. 
+
+#### Future Analysis
+I would love to take the statics of time factor such as month and render the months as a feature to see if there is a greater correlation to the Chance of you getting arrested. 
+
+Features utilized in the analysis
+
+Race 
+Officer ID
+Subject Age Group
